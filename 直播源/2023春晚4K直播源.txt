@@ -1,0 +1,6 @@
+CCTV4K-HLG-50P满血CCTV4K豆豆源,http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
+CCTV4K-HLG-25P帧率阉割版CCTV4K-YSP投屏版源,http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8
+CCTV4K-HLG-50P码率阉割版CCTV4K小果源,http://159.75.85.63:8654/telegram@feiyangdigital-sxg-cctv4k.m3u8
+CCTV4K-SDR-25P帧率高动态范围阉割版CCTV4K-CQYX源,http://114.132.210.86:8765/telegram@feiyangdigital-cqyx-cctv4k.m3u8
+CCTV4K-SDR-25P帧率高动态范围阉割版CCTV4K-Bestv源,http://114.132.210.86:8765/telegram@feiyangdigital-bestv-cctv4k.m3u8
+IPV6的8K风景直播源(飞猪大师提供),http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
